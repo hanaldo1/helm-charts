@@ -3,6 +3,16 @@ entries:
   echo:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2026-05-06T05:16:15.704995895Z"
+    description: A Helm chart for Kubernetes
+    digest: 2ab4f4f8b9bad7b983a4795f2bf52c9b2c3ef0e056d55ab8fa59e776cf77c2ba
+    name: echo
+    type: application
+    urls:
+    - https://github.com/hanaldo1/helm-charts/releases/download/echo-0.2.0/echo-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2026-04-30T04:44:21.845951467Z"
     description: A Helm chart for Kubernetes
     digest: c6be662251a5ec6f2e7b96d89870c49364f953d40526884799fb7a1b36f602db
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/hanaldo1/helm-charts/releases/download/echo-0.1.0/echo-0.1.0.tgz
     version: 0.1.0
-generated: "2026-04-30T04:44:21.845994828Z"
+generated: "2026-05-06T05:16:15.705004007Z"
